@@ -55,6 +55,8 @@
 * [enzyme](https://github.com/airbnb/enzyme)
 * [jsdom](https://github.com/jsdom/jsdom)
 * [puppeteer](https://github.com/GoogleChrome/puppeteer)
+* [react-test-rerender](https://github.com/facebook/react/tree/master/packages/react-test-renderer) - 官方出品。
+* [react-testing-library](https://github.com/kentcdodds/react-testing-library) - kentcdodds 出品。
 
 ## 框架
 
