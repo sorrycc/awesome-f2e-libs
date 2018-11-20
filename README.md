@@ -98,6 +98,7 @@
 * [immer](https://github.com/mweststrate/immer)
 * [mobx](https://github.com/mobxjs/mobx)
 * [unstated](https://github.com/jamiebuilds/unstated)
+* [rxjs](https://github.com/ReactiveX/rxjs)
 
 ## 性能优化
 
