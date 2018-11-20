@@ -134,7 +134,7 @@
 ## 编辑器
 
 * [VSCode](https://code.visualstudio.com/)
-* [Intellij IDEA](https://www.jetbrains.com/idea/)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [codesandbox](https://codesandbox.io/)
 * [stackblitz](https://stackblitz.com/)
 
