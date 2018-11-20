@@ -65,6 +65,7 @@
 * [umi](https://github.com/umijs/umi)
 * [choo](https://github.com/choojs/choo)
 * [taro](https://github.com/NervJS/taro)
+* [after.js](https://github.com/jaredpalmer/after.js)
 
 ## react 相关库
 
@@ -79,6 +80,11 @@
 * [react-intl](https://github.com/yahoo/react-intl)
 * [react-dnd](https://github.com/react-dnd/react-dnd)
 * [react-helmet](https://github.com/nfl/react-helmet)
+
+## vue 相关库
+
+* [vuex](https://github.com/vuejs/vuex)
+* [vue-router](https://github.com/vuejs/vue-router)
 
 ## 工具类
 
