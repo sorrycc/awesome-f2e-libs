@@ -25,18 +25,18 @@
 * [cssnano](https://github.com/cssnano/cssnano) - CSS 压缩，也有类 preset 的概念。
 * [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - 提取 CSS 为单独文件。
 * [webpackbar](https://github.com/nuxt/webpackbar) - webpack 进度条。
-* [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
-* [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin)
-* [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin)
-* [webpack-manifest-plugin](https://github.com/danethurber/webpack-manifest-plugin)
-* [copy-webpack-plugin](https://github.com/webpack-contrib/copy-webpack-plugin)
-* [case-sensitive-paths-webpack-plugin](https://github.com/Urthen/case-sensitive-paths-webpack-plugin)
-* [css-hot-loader](https://github.com/shepherdwind/css-hot-loader)
-* [duplicate-package-checker-webpack-plugin](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin)
+* [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - 构建产物占比分析。
+* [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin) - JS 压缩，产物为 ES5 语法。
+* [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - JS 压缩，产物为 ES6 语法。
+* [webpack-manifest-plugin](https://github.com/danethurber/webpack-manifest-plugin) - 生成 manifest.json。
+* [copy-webpack-plugin](https://github.com/webpack-contrib/copy-webpack-plugin) - 复制额外的文件到输出目录。
+* [case-sensitive-paths-webpack-plugin](https://github.com/Urthen/case-sensitive-paths-webpack-plugin) - 大小写敏感检测，能规避一些问题，但构建时性能消耗较大。
+* [css-hot-loader](https://github.com/shepherdwind/css-hot-loader) - CSS 热更新，搭配 mini-css-extract-plugin 使用。
+* [duplicate-package-checker-webpack-plugin](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin) - 重复依赖检测。
 
 ## 包管理
 
-* [yarn](https://github.com/yarnpkg/yarn)
+* [yarn](https://github.com/yarnpkg/yarn) - 我用这个。
 * [npm](https://github.com/npm/cli)
 
 ## babel
