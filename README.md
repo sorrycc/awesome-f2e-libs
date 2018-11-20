@@ -92,7 +92,6 @@
 ## 工具类
 
 * [history](https://github.com/ReactTraining/history)
-* [whatwg-fetch](https://github.com/github/fetch)
 * [path-to-regexp](https://github.com/pillarjs/path-to-regexp)
 * [lodash](https://github.com/lodash/lodash)
 * [fastclick](https://github.com/ftlabs/fastclick)
@@ -150,7 +149,7 @@
 ## 编辑器
 
 * [VSCode](https://code.visualstudio.com/)
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 我用这个。
 * [codesandbox](https://codesandbox.io/)
 * [stackblitz](https://stackblitz.com/)
 
@@ -175,8 +174,9 @@
 * [update-notifier](https://github.com/yeoman/update-notifier) - 更新提醒。
 * [rimraf](https://github.com/isaacs/rimraf) - 删除文件。
 
-### 请求
+## 请求处理
 
+* [whatwg-fetch](https://github.com/github/fetch)
 * [got](https://github.com/sindresorhus/got)
 * [axios](https://github.com/axios/axios)
 * [request](https://github.com/request/request)
