@@ -103,12 +103,12 @@
 * [mobx](https://github.com/mobxjs/mobx)
 * [unstated](https://github.com/jamiebuilds/unstated)
 * [rxjs](https://github.com/ReactiveX/rxjs)
+* [dva](https://github.com/dvajs/dva) - 我写的数据流，基于 redux。
+* [rematch](https://github.com/rematch/rematch) - 基于 redux。
 
 ### redux 扩展
 
 * [react-redux](https://github.com/reduxjs/react-redux) - 绑定 react 和 redux，这个名字取得不好，react-redux 还是 redux-react 老是记不清楚。
-* [dva](https://github.com/dvajs/dva) - 我写的数据流，基于 redux。
-* [rematch](https://github.com/rematch/rematch)
 * [redux-saga](https://github.com/redux-saga/redux-saga)
 * [redux-persist](https://github.com/rt2zz/redux-persist)
 * [redux-bundler](https://github.com/henrikjoreteg/redux-bundler)
