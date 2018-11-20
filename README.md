@@ -42,11 +42,11 @@
 ## babel
 
 * [babel](https://github.com/babel/babel)
-* [babel-plugin-rawest](https://github.com/sokra/rawact)
-* [babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros)
-* [babel-plugin-dynamic-import-node](https://github.com/airbnb/babel-plugin-dynamic-import-node)
-* [babel-plugin-react-require](https://github.com/vslinko/babel-plugin-react-require)
-* [babel-plugin-react-remove-prop-types](https://github.com/nkt/babel-plugin-react-remove-prop-types)
+* [babel-plugin-rawest](https://github.com/sokra/rawact) - [POC] React 的 DOM 直出方案。
+* [babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - 前端文件写 node 逻辑。
+* [babel-plugin-dynamic-import-node](https://github.com/airbnb/babel-plugin-dynamic-import-node) - 有些场景下会需要禁用 `import()` 语法。
+* [babel-plugin-react-require](https://github.com/vslinko/babel-plugin-react-require) - 自动为 jsx 语法加 react 引用。
+* [babel-plugin-react-remove-prop-types](https://github.com/nkt/babel-plugin-react-remove-prop-types) - 删除 prop-types，生产环境用。
 
 ## 测试
 
