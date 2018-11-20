@@ -4,10 +4,11 @@
 
 ## 打包工具
 
-* [webpack](https://github.com/webpack/webpack)
-* [rollup](https://github.com/rollup/rollup)
-* [parcel](https://github.com/parcel-bundler/parcel)
-* [systemjs](https://github.com/systemjs/systemjs)
+* [webpack](https://github.com/webpack/webpack) - 打包项目
+* [rollup](https://github.com/rollup/rollup) - 打包 npm 库
+* [parcel](https://github.com/parcel-bundler/parcel) - 发展情况不好，再观察一段时间
+* [systemjs](https://github.com/systemjs/systemjs) - 针对一些特殊场景会比较有用，比如云 ide，支付宝小程序 IDE 等
+* [microbundle](https://github.com/developit/microbundle) - 基于 rollup，简化配置
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
 * [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware)
 * [vue-cli](https://github.com/vuejs/vue-cli)
