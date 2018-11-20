@@ -13,18 +13,18 @@
 * [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware)
 * [vue-cli](https://github.com/vuejs/vue-cli)
 * [create-react-app](https://github.com/facebook/create-react-app)
-* [webpack-merge](https://github.com/survivejs/webpack-merge)
-* [webpack-chain](https://github.com/neutrinojs/webpack-chain)
+* [webpack-merge](https://github.com/survivejs/webpack-merge) - 合并 webpack 配置。
+* [webpack-chain](https://github.com/neutrinojs/webpack-chain) - 通过 chain 风格 api 的方式修改 webpack 配置。
 
 ### webpack loader 和插件
 
-* [hard-source-webpack-plugin](https://github.com/mzgoddard/hard-source-webpack-plugin)
-* [svgr](https://github.com/smooth-code/svgr)
-* [postcss](https://github.com/postcss/postcss)
-* [autoprefixer](https://github.com/postcss/autoprefixer)
-* [cssnano](https://github.com/cssnano/cssnano)
-* [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin)
-* [webpackbar](https://github.com/nuxt/webpackbar)
+* [hard-source-webpack-plugin](https://github.com/mzgoddard/hard-source-webpack-plugin) - 性能提升 70%，但有坑。
+* [svgr](https://github.com/smooth-code/svgr) - svg 转 react 组件。
+* [postcss](https://github.com/postcss/postcss) - CSS 界的 babel。
+* [autoprefixer](https://github.com/postcss/autoprefixer) - 为 CSS 选择权自动加 prefix。
+* [cssnano](https://github.com/cssnano/cssnano) - CSS 压缩，也有类 preset 的概念。
+* [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - 提取 CSS 为单独文件。
+* [webpackbar](https://github.com/nuxt/webpackbar) - webpack 进度条。
 * [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 * [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin)
 * [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin)
