@@ -42,7 +42,7 @@
 ## babel
 
 * [babel](https://github.com/babel/babel)
-* [babel-plugin-rawest](https://github.com/sokra/rawact) - [POC] React 的 DOM 直出方案。
+* [babel-plugin-rawest](https://github.com/sokra/rawact) - React 的 DOM 直出方案。
 * [babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - 前端文件写 node 逻辑。
 * [babel-plugin-dynamic-import-node](https://github.com/airbnb/babel-plugin-dynamic-import-node) - 有些场景下会需要禁用 `import()` 语法。
 * [babel-plugin-react-require](https://github.com/vslinko/babel-plugin-react-require) - 自动为 jsx 语法加 react 引用。
