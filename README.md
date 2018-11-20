@@ -63,6 +63,7 @@
 * [gastby](https://github.com/gatsbyjs/gatsby)
 * [umi](https://github.com/umijs/umi)
 * [choo](https://github.com/choojs/choo)
+* [taro](https://github.com/NervJS/taro)
 
 ## react 相关库
 
