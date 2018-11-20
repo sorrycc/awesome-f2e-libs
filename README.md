@@ -117,8 +117,8 @@
 
 ## 性能优化
 
-* [workbox](https://github.com/GoogleChrome/workbox)
-* [critical](https://github.com/addyosmani/critical)
+* [workbox](https://github.com/GoogleChrome/workbox) - PWA 方案，Google 出品。
+* [critical](https://github.com/addyosmani/critical) - 提取关键 CSS。
 
 ## 语言
 
@@ -133,18 +133,19 @@
 
 ## 工程
 
-* [lerna](https://github.com/lerna/lerna)
-* [lerna-changelog](https://github.com/lerna/lerna-changelog)
-* [eslint](https://github.com/eslint/eslint)
+* [lerna](https://github.com/lerna/lerna) - monorepo 管理。
+* [lerna-changelog](https://github.com/lerna/lerna-changelog) - 为 lerna 项目自动生成 changelog。
+* [eslint](https://github.com/eslint/eslint) - JS 风格约束。
 * [eslint-config-airbnb](https://github.com/airbnb/javascript)
-* [prettier](https://github.com/prettier/prettier)
-* [yeoman-generator](https://github.com/yeoman/generator)
-* [serve](https://github.com/zeit/serve)
-* [np](https://github.com/sindresorhus/np)
-* [lint-staged](https://github.com/okonet/lint-staged)
-* [coveralls](https://github.com/marketplace/coveralls)
-* [husky](https://github.com/typicode/husky)
-* [cross-env](https://github.com/kentcdodds/cross-env)
+* [prettier](https://github.com/prettier/prettier) - 更主观的风格自动修改。
+* [yeoman-generator](https://github.com/yeoman/generator) - 脚手架工具。
+* [serve](https://github.com/zeit/serve) - 本地静态服务器。
+* [np](https://github.com/sindresorhus/np) - npm publish 辅助，自动 push、打 tag、升版本等。
+* [lint-staged](https://github.com/okonet/lint-staged) - eslint 提速，只 lint 提交的代码。
+* [coveralls](https://github.com/marketplace/coveralls) - 覆盖率。
+* [husky](https://github.com/typicode/husky) - 添加 git hooks。
+* [cross-env](https://github.com/kentcdodds/cross-env) - 跨平台的环境变量声明。
+* [projj](https://github.com/popomore/projj) - 本地 git 项目管理，支持 github 和 gitlab。
 
 ## 编辑器
 
