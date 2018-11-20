@@ -105,8 +105,8 @@
 
 ### redux 扩展
 
-* [react-redux](https://github.com/reduxjs/react-redux)
-* [dva](https://github.com/dvajs/dva)
+* [react-redux](https://github.com/reduxjs/react-redux) - 绑定 react 和 redux，这个名字取得不好，react-redux 还是 redux-react 老是记不清楚。
+* [dva](https://github.com/dvajs/dva) - 我写的数据流，基于 redux。
 * [rematch](https://github.com/rematch/rematch)
 * [redux-saga](https://github.com/redux-saga/redux-saga)
 * [redux-persist](https://github.com/rt2zz/redux-persist)
@@ -158,19 +158,19 @@
 
 ## 命令行
 
-* [yargs](https://github.com/yargs/yargs)
-* [yargs-parser](https://github.com/yargs/yargs-parser)
-* [chalk](https://github.com/chalk/chalk)
-* [cheerio](https://github.com/cheeriojs/cheerio)
-* [chokidar](https://github.com/paulmillr/chokidar)
-* [clipboardy](https://github.com/sindresorhus/clipboardy)
-* [debug](https://github.com/visionmedia/debug)
-* [deprecate](https://github.com/brianc/node-deprecate)
-* [glob](https://github.com/isaacs/node-glob)
-* [signale](https://github.com/klaussinani/signale)
-* [semver](https://github.com/npm/node-semver)
-* [update-notifier](https://github.com/yeoman/update-notifier)
-* [rimraf](https://github.com/isaacs/rimraf)
+* [yargs](https://github.com/yargs/yargs) - 命令行入口套件。
+* [yargs-parser](https://github.com/yargs/yargs-parser) - 命令行参数解析。
+* [chalk](https://github.com/chalk/chalk) - 输出不同颜色。
+* [cheerio](https://github.com/cheeriojs/cheerio) - 用类 jQuery 语法处理 HTML。
+* [chokidar](https://github.com/paulmillr/chokidar) - 文件监听。
+* [clipboardy](https://github.com/sindresorhus/clipboardy) - 复制文本到粘贴板。
+* [debug](https://github.com/visionmedia/debug) - 打印调试信息。
+* [deprecate](https://github.com/brianc/node-deprecate) - 给过期警告。
+* [glob](https://github.com/isaacs/node-glob) - 文件查找。
+* [signale](https://github.com/klaussinani/signale) - 漂亮的日志打印。
+* [semver](https://github.com/npm/node-semver) - semver 版本处理。
+* [update-notifier](https://github.com/yeoman/update-notifier) - 更新提醒。
+* [rimraf](https://github.com/isaacs/rimraf) - 删除文件。
 
 ### 请求
 
