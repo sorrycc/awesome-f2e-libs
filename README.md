@@ -65,24 +65,24 @@
 * [next.js](https://github.com/zeit/next.js)
 * [nuxt.js](https://github.com/nuxt/nuxt.js)
 * [gastby](https://github.com/gatsbyjs/gatsby)
-* [umi](https://github.com/umijs/umi)
-* [choo](https://github.com/choojs/choo)
-* [taro](https://github.com/NervJS/taro)
+* [umi](https://github.com/umijs/umi) - 蚂蚁金服的前端框架，我目前在维护。
+* [choo](https://github.com/choojs/choo) - dva 最初的 API 是参考这个实现的，已经不怎么发展了，再关注一段时间。
+* [taro](https://github.com/NervJS/taro) - 用 React 写小程序，适配微信和支付宝等。
 * [after.js](https://github.com/jaredpalmer/after.js)
 
 ## react 相关库
 
-* [preact](https://github.com/developit/preact)
-* [inferno](https://github.com/infernojs/inferno)
-* [react-router](https://github.com/ReactTraining/react-router)
-* [reach-router](https://github.com/reach/router)
-* [router5](https://github.com/router5/router5)
-* [react-loadable](https://github.com/jamiebuilds/react-loadable)
-* [ant-design](https://github.com/ant-design/ant-design)
-* [material-ui](https://github.com/mui-org/material-ui)
-* [react-intl](https://github.com/yahoo/react-intl)
-* [react-dnd](https://github.com/react-dnd/react-dnd)
-* [react-helmet](https://github.com/nfl/react-helmet)
+* [preact](https://github.com/developit/preact) - 轻量级 React 实现。
+* [inferno](https://github.com/infernojs/inferno) - 轻量级 React 实现。
+* [react-router](https://github.com/ReactTraining/react-router) - React 路由方案。
+* [reach-router](https://github.com/reach/router) - React 路由方案，较新，优势是可访问性。
+* [router5](https://github.com/router5/router5) - 通用的路由方案。
+* [react-loadable](https://github.com/jamiebuilds/react-loadable) - 按需加载 react 组件。
+* [ant-design](https://github.com/ant-design/ant-design) - 蚂蚁金服的 React UI 库。
+* [material-ui](https://github.com/mui-org/material-ui) - UI 库。
+* [react-intl](https://github.com/yahoo/react-intl) - React 的国际化方案。
+* [react-dnd](https://github.com/react-dnd/react-dnd) - 拖拽实现。
+* [react-helmet](https://github.com/nfl/react-helmet) - 修改 html 的 header 内容。
 
 ## vue 相关库
 
