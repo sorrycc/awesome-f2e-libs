@@ -9,10 +9,10 @@
 * [parcel](https://github.com/parcel-bundler/parcel) - webpack 竞品，但发展前景不乐观，再观察一段时间。
 * [systemjs](https://github.com/systemjs/systemjs) - 针对一些特殊场景会比较有用，比如云 ide，支付宝小程序 IDE 等。
 * [microbundle](https://github.com/developit/microbundle) - 基于 rollup，简化配置。
-* [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
-* [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware)
-* [vue-cli](https://github.com/vuejs/vue-cli)
-* [create-react-app](https://github.com/facebook/create-react-app)
+* [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - webpack 开发服务器。
+* [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware) - webpack 中间件。
+* [vue-cli](https://github.com/vuejs/vue-cli) - vue 命令行工具。
+* [create-react-app](https://github.com/facebook/create-react-app) - react 官方脚手架。
 * [webpack-merge](https://github.com/survivejs/webpack-merge) - 合并 webpack 配置。
 * [webpack-chain](https://github.com/neutrinojs/webpack-chain) - 通过 chain 风格 api 的方式修改 webpack 配置。
 
@@ -108,7 +108,7 @@
 
 ### redux 扩展
 
-* [react-redux](https://github.com/reduxjs/react-redux) - 绑定 react 和 redux，这个名字取得不好，react-redux 还是 redux-react 老是记不清楚。
+* [react-redux](https://github.com/reduxjs/react-redux) - 绑定 react 和 redux。
 * [redux-saga](https://github.com/redux-saga/redux-saga)
 * [redux-persist](https://github.com/rt2zz/redux-persist)
 * [redux-bundler](https://github.com/henrikjoreteg/redux-bundler)
