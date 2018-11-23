@@ -145,6 +145,7 @@
 * [husky](https://github.com/typicode/husky) - 添加 git hooks。
 * [cross-env](https://github.com/kentcdodds/cross-env) - 跨平台的环境变量声明。
 * [projj](https://github.com/popomore/projj) - 本地 git 项目管理，支持 github 和 gitlab。
+* [nvm](https://github.com/creationix/nvm) - 管理 node 版本。
 
 ## 编辑器
 
