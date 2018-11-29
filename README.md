@@ -174,6 +174,7 @@
 * [semver](https://github.com/npm/node-semver) - semver 版本处理。
 * [update-notifier](https://github.com/yeoman/update-notifier) - 更新提醒。
 * [rimraf](https://github.com/isaacs/rimraf) - 删除文件。
+* [depd](https://github.com/dougwilson/nodejs-depd) - 给出 deprecated 警告。
 
 ## 请求处理
 
