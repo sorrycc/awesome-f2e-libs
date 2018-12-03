@@ -172,6 +172,7 @@
 * [debug](https://github.com/visionmedia/debug) - 打印调试信息。
 * [deprecate](https://github.com/brianc/node-deprecate) - 给过期警告。
 * [glob](https://github.com/isaacs/node-glob) - 文件查找。
+* [tiny-glob](https://github.com/terkelg/tiny-glob) - 文件查找。
 * [signale](https://github.com/klaussinani/signale) - 漂亮的日志打印。
 * [semver](https://github.com/npm/node-semver) - semver 版本处理。
 * [update-notifier](https://github.com/yeoman/update-notifier) - 更新提醒。
