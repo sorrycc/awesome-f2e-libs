@@ -146,6 +146,8 @@
 * [cross-env](https://github.com/kentcdodds/cross-env) - 跨平台的环境变量声明。
 * [projj](https://github.com/popomore/projj) - 本地 git 项目管理，支持 github 和 gitlab。
 * [nvm](https://github.com/creationix/nvm) - 管理 node 版本。
+* [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 在 npm scripts 里并行执行命令。
+* [@zeit/ncc](https://github.com/zeit/ncc) - 打包为 npm 包为一个文件。
 
 ## 编辑器
 
