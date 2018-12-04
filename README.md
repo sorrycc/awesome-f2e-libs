@@ -187,6 +187,10 @@
 * [request](https://github.com/request/request)
 * [reqwest](https://github.com/ded/reqwest)
 
+## 语法解析
+
+* [esquery](https://github.com/estools/esquery) - 语法树查询。
+
 ## 其他
 
 * [electron](https://github.com/electron/electron)
