@@ -86,7 +86,6 @@
 
 ## vue 相关库
 
-* [vuex](https://github.com/vuejs/vuex)
 * [vue-router](https://github.com/vuejs/vue-router)
 
 ## 工具类
@@ -105,6 +104,8 @@
 * [rxjs](https://github.com/ReactiveX/rxjs)
 * [dva](https://github.com/dvajs/dva) - 我写的数据流，基于 redux。
 * [rematch](https://github.com/rematch/rematch) - 基于 redux。
+* [vuex](https://github.com/vuejs/vuex)
+* [ngrx](https://github.com/ngrx/platform)
 
 ### redux 扩展
 
