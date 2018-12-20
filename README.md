@@ -46,7 +46,7 @@
 * [babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - 前端文件写 node 逻辑。
 * [babel-plugin-dynamic-import-node](https://github.com/airbnb/babel-plugin-dynamic-import-node) - 有些场景下会需要禁用 `import()` 语法。
 * [babel-plugin-react-require](https://github.com/vslinko/babel-plugin-react-require) - 自动为 jsx 语法加 react 引用。
-* [babel-plugin-react-remove-prop-types](https://github.com/nkt/babel-plugin-react-remove-prop-types) - 删除 prop-types，生产环境用。
+* [babel-plugin-transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - 删除 prop-types，生产环境用。
 
 ## 测试
 
@@ -149,6 +149,7 @@
 * [nvm](https://github.com/creationix/nvm) - 管理 node 版本。
 * [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 在 npm scripts 里并行执行命令。
 * [@zeit/ncc](https://github.com/zeit/ncc) - 打包为 npm 包为一个文件。
+* [npm-check](https://github.com/dylang/npm-check) - 检测依赖升级情况，我会和 `yarn upgrade-interactive` 配合着用，主要用来检测冗余依赖。
 
 ## 编辑器
 
@@ -179,6 +180,8 @@
 * [update-notifier](https://github.com/yeoman/update-notifier) - 更新提醒。
 * [rimraf](https://github.com/isaacs/rimraf) - 删除文件。
 * [depd](https://github.com/dougwilson/nodejs-depd) - 给出 deprecated 警告。
+* [execa](https://github.com/sindresorhus/execa) - 比 child_process 好用，返回 Promise。
+* [ora](https://github.com/sindresorhus/ora) - 控制命令行光标，显示 loading 等。
 
 ## 请求处理
 
@@ -195,3 +198,4 @@
 ## 其他
 
 * [electron](https://github.com/electron/electron)
+
