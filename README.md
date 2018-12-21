@@ -183,6 +183,7 @@
 * [execa](https://github.com/sindresorhus/execa) - 比 child_process 好用，返回 Promise。
 * [ora](https://github.com/sindresorhus/ora) - 控制命令行光标，显示 loading 等。
 * [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令接口，比如 prompt。
+* [enquirer](https://github.com/enquirer/enquirer) - 同上，更 cool 一些。
 
 ## 请求处理
 
