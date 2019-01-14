@@ -137,6 +137,7 @@
 * [lerna-changelog](https://github.com/lerna/lerna-changelog) - 为 lerna 项目自动生成 changelog。
 * [eslint](https://github.com/eslint/eslint) - JS 风格约束。
 * [eslint-config-airbnb](https://github.com/airbnb/javascript)
+* [xo](https://github.com/xojs/xo) - 封装自 eslint。
 * [prettier](https://github.com/prettier/prettier) - 更主观的风格自动修改。
 * [yeoman-generator](https://github.com/yeoman/generator) - 脚手架工具。
 * [serve](https://github.com/zeit/serve) - 本地静态服务器。
@@ -150,6 +151,7 @@
 * [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 在 npm scripts 里并行执行命令。
 * [@zeit/ncc](https://github.com/zeit/ncc) - 打包为 npm 包为一个文件。
 * [npm-check](https://github.com/dylang/npm-check) - 检测依赖升级情况，我会和 `yarn upgrade-interactive` 配合着用，主要用来检测冗余依赖。
+* [cpx](https://github.com/mysticatea/cpx) - 复制，支持 glob，并且可以 watch。
 
 ## 编辑器
 
