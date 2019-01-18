@@ -152,6 +152,7 @@
 * [@zeit/ncc](https://github.com/zeit/ncc) - 打包为 npm 包为一个文件。
 * [npm-check](https://github.com/dylang/npm-check) - 检测依赖升级情况，我会和 `yarn upgrade-interactive` 配合着用，主要用来检测冗余依赖。
 * [cpx](https://github.com/mysticatea/cpx) - 复制，支持 glob，并且可以 watch。
+* [onchange](https://github.com/Qard/onchange) - 监听文件变动然后做一些事。
 
 ## 编辑器
 
