@@ -7,6 +7,7 @@
 * [webpack](https://github.com/webpack/webpack) - 打包项目。
 * [rollup](https://github.com/rollup/rollup) - 打包 npm 库。
 * [parcel](https://github.com/parcel-bundler/parcel) - webpack 竞品，但发展前景不乐观，再观察一段时间。
+* [@pikapkg/pack](https://github.com/pikapkg/pack) - 又一组件打包工具。
 * [systemjs](https://github.com/systemjs/systemjs) - 针对一些特殊场景会比较有用，比如云 ide，支付宝小程序 IDE 等。
 * [microbundle](https://github.com/developit/microbundle) - 基于 rollup，简化配置。
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - webpack 开发服务器。
