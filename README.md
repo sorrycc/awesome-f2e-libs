@@ -205,6 +205,12 @@
 * [request](https://github.com/request/request)
 * [reqwest](https://github.com/ded/reqwest)
 
+## 压缩解压缩
+
+* [yazl](https://www.npmjs.com/package/yazl) - zip 压缩。
+* [yauzl](https://github.com/thejoshwolfe/yauzl) - zip 解压缩。
+* [tar-fs](https://github.com/mafintosh/tar-fs) - tar 的压缩和解压缩。
+
 ## 语法解析
 
 * [esquery](https://github.com/estools/esquery) - 语法树查询。
