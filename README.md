@@ -10,6 +10,7 @@
 * [@pikapkg/pack](https://github.com/pikapkg/pack) - 又一组件打包工具。
 * [systemjs](https://github.com/systemjs/systemjs) - 针对一些特殊场景会比较有用，比如云 ide，支付宝小程序 IDE 等。
 * [microbundle](https://github.com/developit/microbundle) - 基于 rollup，简化配置。
+* [bili](https://github.com/egoist/bili) - 基于 rollup，同上。
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - webpack 开发服务器。
 * [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware) - webpack 中间件。
 * [vue-cli](https://github.com/vuejs/vue-cli) - vue 命令行工具。
