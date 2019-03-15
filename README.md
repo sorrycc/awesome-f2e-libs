@@ -232,4 +232,5 @@
 - [**yarnpkg/rfcs**](https://github.com/yarnpkg/rfcs)
 - [**npm/rfcs**](https://github.com/npm/rfcs)
 - [**gastbyjs/rfcs**](https://github.com/gatsbyjs/rfcs)
+- [**nuxtjs/rfcs**](https://github.com/nuxt/rfcs)
 
