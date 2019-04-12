@@ -17,6 +17,8 @@
 * [**create-react-app**](https://github.com/facebook/create-react-app) - react 官方脚手架。
 * [**webpack-merge**](https://github.com/survivejs/webpack-merge) - 合并 webpack 配置。
 * [**webpack-chain**](https://github.com/neutrinojs/webpack-chain) - 通过 chain 风格 api 的方式修改 webpack 配置。
+* [**prepack**](https://github.com/facebook/prepack) - 通过预先执行的方式优化打包结果。
+* [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
 
 ### webpack loader 和插件
 
@@ -73,6 +75,8 @@
 * [**choo**](https://github.com/choojs/choo) - dva 最初的 API 是参考这个实现的，已经不怎么发展了，再关注一段时间。
 * [**taro**](https://github.com/NervJS/taro) - 用 React 写小程序，适配微信和支付宝等。
 * [**after.js**](https://github.com/jaredpalmer/after.js)
+* [**mint**](https://github.com/mint-lang/mint) - 提供了语言层方案的框架。
+* [**quasar**](https://github.com/quasarframework/quasar) - 基于 vue，一套代码多处适用。
 
 ## react 相关库
 
@@ -158,6 +162,7 @@
 * [**npm-check**](https://github.com/dylang/npm-check) - 检测依赖升级情况，我会和 `yarn upgrade-interactive` 配合着用，主要用来检测冗余依赖。
 * [**cpx**](https://github.com/mysticatea/cpx) - 复制，支持 glob，并且可以 watch。
 * [**onchange**](https://github.com/Qard/onchange) - 监听文件变动然后做一些事。
+* [**just**](https://github.com/Microsoft/just) - 微软出的任务管理器。
 
 ## 编辑器
 
@@ -200,6 +205,7 @@
 * [**enquirer**](https://github.com/enquirer/enquirer) - 同上，更 cool 一些。
 * [**ajv**](https://github.com/epoberezkin/ajv) - 参数校验。
 * [**ink**](https://github.com/vadimdemedes/ink) - 用 React 处理命令行输出。
+* [**figures**](https://github.com/sindresorhus/figures) - ✔︎ 等特殊字符，做了 windows 兼容处理。
 
 ## 请求处理
 
@@ -222,6 +228,7 @@
 ## 其他
 
 * [**electron**](https://github.com/electron/electron)
+* [**DeskGap**](https://github.com/patr0nus/DeskGap/) - 类 electron，由于不包含浏览器的部分，所以产物更小
 * [**fx**](https://github.com/antonmedv/fx) - 交互式 JSON 查看。
 
 ## rtfs
