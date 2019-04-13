@@ -99,9 +99,10 @@
 ## 工具类
 
 * [**history**](https://github.com/ReactTraining/history)
-* [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp)
-* [**lodash**](https://github.com/lodash/lodash)
+* [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp) - path 转正则，路由相关处理的底层库。
+* [**lodash**](https://github.com/lodash/lodash) - 工具集合。
 * [**fastclick**](https://github.com/ftlabs/fastclick)
+* [**date-fns**](https://github.com/date-fns/date-fns) - 时间处理。
 
 ## 数据流
 
@@ -163,6 +164,7 @@
 * [**cpx**](https://github.com/mysticatea/cpx) - 复制，支持 glob，并且可以 watch。
 * [**onchange**](https://github.com/Qard/onchange) - 监听文件变动然后做一些事。
 * [**just**](https://github.com/Microsoft/just) - 微软出的任务管理器。
+* [**tern**](https://github.com/ternjs/tern) - 代码分析器，为不少编辑器服务。
 
 ## 编辑器
 
