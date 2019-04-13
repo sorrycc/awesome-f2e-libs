@@ -140,6 +140,7 @@
 * [**vuepress**](https://github.com/vuejs/vuepress)
 * [**docz**](https://github.com/pedronauck/docz)
 * [**storybook**](https://github.com/storybooks/storybook)
+* [**mdx**](https://github.com/mdx-js/mdx) - jsx + markdown。
 
 ## 工程
 
