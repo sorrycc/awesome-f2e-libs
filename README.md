@@ -174,6 +174,12 @@
 * [**codesandbox**](https://codesandbox.io/)
 * [**stackblitz**](https://stackblitz.com/)
 
+## CloudIDE
+
+* [**theia**](https://github.com/theia-ide/theia)
+* [**che**](https://github.com/eclipse/che)
+* [**codesandbox-client**](https://github.com/CompuIves/codesandbox-client)
+
 ## 字体
 
 * [**FiraCode**](https://github.com/tonsky/FiraCode)
