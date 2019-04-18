@@ -152,6 +152,8 @@
 * [**prettier**](https://github.com/prettier/prettier) - 更主观的风格自动修改。
 * [**yeoman-generator**](https://github.com/yeoman/generator) - 脚手架工具。
 * [**serve**](https://github.com/zeit/serve) - 本地静态服务器。
+* [**servor**](https://github.com/lukejacksonn/servor) - 另一个静态服务器。
+* [**budo**](https://github.com/mattdesl/budo) - 又一个静态服务器。
 * [**np**](https://github.com/sindresorhus/np) - npm publish 辅助，自动 push、打 tag、升版本等。
 * [**lint-staged**](https://github.com/okonet/lint-staged) - eslint 提速，只 lint 提交的代码。
 * [**coveralls**](https://github.com/marketplace/coveralls) - 覆盖率。
