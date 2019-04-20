@@ -91,6 +91,7 @@
 * [**react-intl**](https://github.com/yahoo/react-intl) - React 的国际化方案。
 * [**react-dnd**](https://github.com/react-dnd/react-dnd) - 拖拽实现。
 * [**react-helmet**](https://github.com/nfl/react-helmet) - 修改 html 的 header 内容。
+* [**react-jsonschema-form**](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 
 ## vue 相关库
 
