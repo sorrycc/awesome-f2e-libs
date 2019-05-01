@@ -19,6 +19,8 @@
 * [**webpack-chain**](https://github.com/neutrinojs/webpack-chain) - 通过 chain 风格 api 的方式修改 webpack 配置。
 * [**prepack**](https://github.com/facebook/prepack) - 通过预先执行的方式优化打包结果。
 * [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
+* [**nathan/pax**](https://github.com/nathan/pax) - 基于 rust，据说是这个星球最快的 JavaScript 打包工具。
+* [**pikapkg/web**](https://github.com/pikapkg/web) - 浏览器里跑 npm 依赖，面向现代浏览器。
 
 ### webpack loader 和插件
 
