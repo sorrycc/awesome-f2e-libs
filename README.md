@@ -21,6 +21,7 @@
 * [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
 * [**nathan/pax**](https://github.com/nathan/pax) - 基于 rust，据说是这个星球最快的 JavaScript 打包工具。
 * [**pikapkg/web**](https://github.com/pikapkg/web) - 浏览器里跑 npm 依赖，面向现代浏览器。
+* [**lebab/lebab**](https://github.com/lebab/lebab) - 把 es5 代码转成 es6，反向 babel。
 
 ### webpack loader 和插件
 
