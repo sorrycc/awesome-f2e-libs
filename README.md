@@ -22,6 +22,7 @@
 * [**nathan/pax**](https://github.com/nathan/pax) - 基于 rust，据说是这个星球最快的 JavaScript 打包工具。
 * [**pikapkg/web**](https://github.com/pikapkg/web) - 浏览器里跑 npm 依赖，面向现代浏览器。
 * [**lebab/lebab**](https://github.com/lebab/lebab) - 把 es5 代码转成 es6，反向 babel。
+* [**palmerhq/tsdx**](https://github.com/palmerhq/tsdx) - Zero-config CLI for TypeScript package development.
 
 ### webpack loader 和插件
 
