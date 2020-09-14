@@ -7,26 +7,23 @@
 * [**webpack**](https://github.com/webpack/webpack) - 打包项目。
 * [**rollup**](https://github.com/rollup/rollup) - 打包 npm 库。
 * [**parcel**](https://github.com/parcel-bundler/parcel) - webpack 竞品，但发展前景不乐观，再观察一段时间。
-* [**@pikapkg/pack**](https://github.com/pikapkg/pack) - 又一组件打包工具。
 * [**systemjs**](https://github.com/systemjs/systemjs) - 针对一些特殊场景会比较有用，比如云 ide，支付宝小程序 IDE 等。
 * [**microbundle**](https://github.com/developit/microbundle) - 基于 rollup，简化配置。
 * [**bili**](https://github.com/egoist/bili) - 基于 rollup，同上。
-* [**webpack-dev-server**](https://github.com/webpack/webpack-dev-server) - webpack 开发服务器。
-* [**webpack-dev-middleware**](https://github.com/webpack/webpack-dev-middleware) - webpack 中间件。
+* [**father**](https://github.com/umijs/father) - 组件打包工具，提供 babel 和 rollup 两种打包方式。
 * [**vue-cli**](https://github.com/vuejs/vue-cli) - vue 命令行工具。
 * [**create-react-app**](https://github.com/facebook/create-react-app) - react 官方脚手架。
+* [**prepack**](https://github.com/facebook/prepack) - 通过预先执行的方式优化打包结果。
+* [**lebab**](https://github.com/lebab/lebab) - 把 es5 代码转成 es6，反向 babel。
+* [**esm-to-cjs**](https://github.com/sidvishnoi/esm-to-cjs) - 把 esm 转成 cjs。
+* [**tsdx**](https://github.com/palmerhq/tsdx) - Zero-config CLI for TypeScript package development.
+
+### webpack 辅助工具、Loader 和插件
+
+* [**webpack-dev-server**](https://github.com/webpack/webpack-dev-server) - webpack 开发服务器。
+* [**webpack-dev-middleware**](https://github.com/webpack/webpack-dev-middleware) - webpack 中间件。
 * [**webpack-merge**](https://github.com/survivejs/webpack-merge) - 合并 webpack 配置。
 * [**webpack-chain**](https://github.com/neutrinojs/webpack-chain) - 通过 chain 风格 api 的方式修改 webpack 配置。
-* [**prepack**](https://github.com/facebook/prepack) - 通过预先执行的方式优化打包结果。
-* [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
-* [**nathan/pax**](https://github.com/nathan/pax) - 基于 rust，据说是这个星球最快的 JavaScript 打包工具。
-* [**pikapkg/web**](https://github.com/pikapkg/web) - 浏览器里跑 npm 依赖，面向现代浏览器。
-* [**lebab/lebab**](https://github.com/lebab/lebab) - 把 es5 代码转成 es6，反向 babel。
-* [**palmerhq/tsdx**](https://github.com/palmerhq/tsdx) - Zero-config CLI for TypeScript package development.
-
-### webpack loader 和插件
-
-* [**hard-source-webpack-plugin**](https://github.com/mzgoddard/hard-source-webpack-plugin) - 性能提升 70%，但有坑。
 * [**svgr**](https://github.com/smooth-code/svgr) - svg 转 react 组件。
 * [**postcss**](https://github.com/postcss/postcss) - CSS 界的 babel。
 * [**autoprefixer**](https://github.com/postcss/autoprefixer) - 为 CSS 选择权自动加 prefix。
@@ -44,6 +41,21 @@
 * [**fork-ts-checker-webpack-plugin**](https://github.com/Realytics/fork-ts-checker-webpack-plugin) - ts 语法检测。
 * [**speed-measure-webpack-plugin**](https://github.com/stephencookdev/speed-measure-webpack-plugin) - 统计 webpack 各阶段耗时。
 
+### Bundless
+
+* [**vite**](https://github.com/vitejs/vite)
+* [**snowpack**](https://github.com/pikapkg/snowpack) - 浏览器里跑 npm 依赖，面向现代浏览器。
+* [**es-dev-server**](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server)
+
+### 非 JavaScript 编译工具
+
+* [**esbuild**](https://github.com/evanw/esbuild)，基于 Go，Webpack 替代品。
+* [**sucrase**](https://github.com/alangpierce/sucrase)，基于 Rust，Babel 替代品。
+* [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
+* [**swc-node**](https://github.com/Brooooooklyn/swc-node)
+* [**dprint**](https://github.com/dprint/dprint)，基于  Rust，代码格式化工具，Prettier 替代品。
+* [**es-module-lexer**](https://github.com/guybedford/es-module-lexer)，基于 C，输出 Web Assembly，esm 模块解析。
+
 ## 包管理
 
 * [**yarn**](https://github.com/yarnpkg/yarn) - 我用这个。
@@ -57,6 +69,10 @@
 * [**babel-plugin-dynamic-import-node**](https://github.com/airbnb/babel-plugin-dynamic-import-node) - 有些场景下会需要禁用 `import()` 语法。
 * [**babel-plugin-react-require**](https://github.com/vslinko/babel-plugin-react-require) - 自动为 jsx 语法加 react 引用。
 * [**babel-plugin-transform-react-remove-prop-types**](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - 删除 prop-types，生产环境用。
+
+### macros
+
+* [**import-all.macro**](https://github.com/kentcdodds/import-all.macro)
 
 ## 测试
 
@@ -143,6 +159,7 @@
 
 ## 文档
 
+* [**dumi**](https://github.com/umijs/dumi)
 * [**vuepress**](https://github.com/vuejs/vuepress)
 * [**docz**](https://github.com/pedronauck/docz)
 * [**storybook**](https://github.com/storybooks/storybook)
@@ -174,6 +191,7 @@
 * [**onchange**](https://github.com/Qard/onchange) - 监听文件变动然后做一些事。
 * [**just**](https://github.com/Microsoft/just) - 微软出的任务管理器。
 * [**tern**](https://github.com/ternjs/tern) - 代码分析器，为不少编辑器服务。
+* [**lightproxy**](https://github.com/alibaba/lightproxy) - 底层协议代理工具，跨平台。
 
 ## 编辑器
 
@@ -201,42 +219,46 @@
 
 ## 命令行
 
-* [**yargs**](https://github.com/yargs/yargs) - 命令行入口套件。
-* [**yargs-parser**](https://github.com/yargs/yargs-parser) - 命令行参数解析。
+> 按字母排序。
+
+* [**ajv**](https://github.com/epoberezkin/ajv) - 参数校验。
 * [**chalk**](https://github.com/chalk/chalk) - 输出不同颜色。
 * [**cheerio**](https://github.com/cheeriojs/cheerio) - 用类 jQuery 语法处理 HTML。
 * [**chokidar**](https://github.com/paulmillr/chokidar) - 文件监听。
 * [**clipboardy**](https://github.com/sindresorhus/clipboardy) - 复制文本到粘贴板。
 * [**debug**](https://github.com/visionmedia/debug) - 打印调试信息。
+* [**depd**](https://github.com/dougwilson/nodejs-depd) - 给出 deprecated 警告。
 * [**deprecate**](https://github.com/brianc/node-deprecate) - 给过期警告。
+* [**enquirer**](https://github.com/enquirer/enquirer) - 同上，更 cool 一些。
+* [**execa**](https://github.com/sindresorhus/execa) - 比 child_process 好用，返回 Promise。
+* [**figures**](https://github.com/sindresorhus/figures) - ✔︎ 等特殊字符，做了 windows 兼容处理。
 * [**glob**](https://github.com/isaacs/node-glob) - 文件查找。
-* [**tiny-glob**](https://github.com/terkelg/tiny-glob) - 文件查找。
+* [**ink**](https://github.com/vadimdemedes/ink) - 用 React 处理命令行输出。
+* [**inquirer**](https://github.com/SBoudrias/Inquirer.js) - 交互式命令接口，比如 prompt。
+* [**ora**](https://github.com/sindresorhus/ora) - 控制命令行光标，显示 loading 等。
+* [**rimraf**](https://github.com/isaacs/rimraf) - 删除文件。
 * [**signale**](https://github.com/klaussinani/signale) - 漂亮的日志打印。
 * [**semver**](https://github.com/npm/node-semver) - semver 版本处理。
+* [**tiny-glob**](https://github.com/terkelg/tiny-glob) - 文件查找。
 * [**update-notifier**](https://github.com/yeoman/update-notifier) - 更新提醒。
-* [**rimraf**](https://github.com/isaacs/rimraf) - 删除文件。
-* [**depd**](https://github.com/dougwilson/nodejs-depd) - 给出 deprecated 警告。
-* [**execa**](https://github.com/sindresorhus/execa) - 比 child_process 好用，返回 Promise。
-* [**ora**](https://github.com/sindresorhus/ora) - 控制命令行光标，显示 loading 等。
-* [**inquirer**](https://github.com/SBoudrias/Inquirer.js) - 交互式命令接口，比如 prompt。
-* [**enquirer**](https://github.com/enquirer/enquirer) - 同上，更 cool 一些。
-* [**ajv**](https://github.com/epoberezkin/ajv) - 参数校验。
-* [**ink**](https://github.com/vadimdemedes/ink) - 用 React 处理命令行输出。
-* [**figures**](https://github.com/sindresorhus/figures) - ✔︎ 等特殊字符，做了 windows 兼容处理。
+* [**yargs**](https://github.com/yargs/yargs) - 命令行入口套件。
+* [**yargs-parser**](https://github.com/yargs/yargs-parser) - 命令行参数解析。
 
 ## 请求处理
 
-* [**whatwg-fetch**](https://github.com/github/fetch)
-* [**got**](https://github.com/sindresorhus/got)
 * [**axios**](https://github.com/axios/axios)
+* [**got**](https://github.com/sindresorhus/got)
 * [**request**](https://github.com/request/request)
 * [**reqwest**](https://github.com/ded/reqwest)
+* [**urllib**](https://github.com/node-modules/urllib)
+* [**whatwg-fetch**](https://github.com/github/fetch)
 
 ## 压缩解压缩
 
+* [**compressing**](https://github.com/node-modules/compressing) - 压缩和解压缩。
+* [**tar-fs**](https://github.com/mafintosh/tar-fs) - tar 的压缩和解压缩。
 * [**yazl**](https://www.npmjs.com/package/yazl) - zip 压缩。
 * [**yauzl**](https://github.com/thejoshwolfe/yauzl) - zip 解压缩。
-* [**tar-fs**](https://github.com/mafintosh/tar-fs) - tar 的压缩和解压缩。
 
 ## 语法解析
 
@@ -255,13 +277,13 @@
 
 ## rtfs
 
-* [**reactjs/rfcs**](https://github.com/reactjs/rfcs)
 * [**eslint/rfcs**](https://github.com/eslint/rfcs)
+* [**gastbyjs/rfcs**](https://github.com/gatsbyjs/rfcs)
+* [**npm/rfcs**](https://github.com/npm/rfcs)
+* [**nuxtjs/rfcs**](https://github.com/nuxt/rfcs)
+* [**reactjs/rfcs**](https://github.com/reactjs/rfcs)
 * [**vuejs/rfcs**](https://github.com/vuejs/rfcs)
 * [**yarnpkg/rfcs**](https://github.com/yarnpkg/rfcs)
-* [**npm/rfcs**](https://github.com/npm/rfcs)
-* [**gastbyjs/rfcs**](https://github.com/gatsbyjs/rfcs)
-* [**nuxtjs/rfcs**](https://github.com/nuxt/rfcs)
 
 ## 相关
 
