@@ -54,6 +54,7 @@
 * [**elsa**](https://github.com/elsaland/elsa) - 基于 Go，JavaScript 和 TypeScript 的 runtime。 
 * [**es-module-lexer**](https://github.com/guybedford/es-module-lexer) - 基于 C，输出 Web Assembly，esm 模块解析。
 * [**esbuild**](https://github.com/evanw/esbuild) - 基于 Go，Webpack 替代品。
+* [**esbuild-node-tsc**](https://github.com/a7ul/esbuild-node-tsc) - 用 esbuild 编译 TypeScript 项目，但不支持类型检测。
 * [**minify**](https://github.com/tdewolff/minify) - 基于 Go，压缩器，支持 HTML5、CSS3、JS、JSON、SVG 和 XML。
 * [**RSLint**](https://github.com/RDambrosio016/RSLint) - 基于 Rust，lint 工具。
 * [**sucrase**](https://github.com/alangpierce/sucrase) - 基于 Rust，Babel 替代品。
