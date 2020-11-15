@@ -60,6 +60,7 @@
 * [**sucrase**](https://github.com/alangpierce/sucrase) - 基于 Rust，Babel 替代品。
 * [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
 * [**swc-node**](https://github.com/Brooooooklyn/swc-node)
+* [**markdown-wasm**](https://github.com/rsms/markdown-wasm) - 基于 wasm 的 markdown 解析工具。
 
 ## 包管理
 
