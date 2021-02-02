@@ -245,6 +245,7 @@
 * [**semver**](https://github.com/npm/node-semver) - semver 版本处理。
 * [**tiny-glob**](https://github.com/terkelg/tiny-glob) - 文件查找。
 * [**update-notifier**](https://github.com/yeoman/update-notifier) - 更新提醒。
+* [**why-is-node-running**](https://github.com/mafintosh/why-is-node-running) - 检查 node 没退出的原因。
 * [**yargs**](https://github.com/yargs/yargs) - 命令行入口套件。
 * [**yargs-parser**](https://github.com/yargs/yargs-parser) - 命令行参数解析。
 
