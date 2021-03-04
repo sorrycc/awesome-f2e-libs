@@ -53,6 +53,7 @@
 * [**dprint**](https://github.com/dprint/dprint) - 基于  Rust，代码格式化工具，Prettier 替代品。
 * [**elsa**](https://github.com/elsaland/elsa) - 基于 Go，JavaScript 和 TypeScript 的 runtime。 
 * [**es-module-lexer**](https://github.com/guybedford/es-module-lexer) - 基于 C，输出 Web Assembly，esm 模块解析。
+* [**cjs-module-lexer**](https://github.com/guybedford/cjs-module-lexer) - 通上，cjs 模块解析，也可以用 [cjs-module-lexer-rollup-reexports](https://github.com/yyx990803/cjs-module-lexer-rollup-reexports)。
 * [**esbuild**](https://github.com/evanw/esbuild) - 基于 Go，Webpack 替代品。
 * [**esbuild-node-tsc**](https://github.com/a7ul/esbuild-node-tsc) - 用 esbuild 编译 TypeScript 项目，但不支持类型检测。
 * [**minify**](https://github.com/tdewolff/minify) - 基于 Go，压缩器，支持 HTML5、CSS3、JS、JSON、SVG 和 XML。
