@@ -50,17 +50,21 @@
 ### 非 JavaScript 编译工具
 
 * [**boa**](https://github.com/boa-dev/boa) - 基于 Rust，嵌入式 Javascript 引擎。
-* [**dprint**](https://github.com/dprint/dprint) - 基于  Rust，代码格式化工具，Prettier 替代品。
+* [**cjs-module-lexer**](https://github.com/guybedford/cjs-module-lexer) - 通上，cjs 模块解析，也可以用 [cjs-module-lexer-rollup-reexports](https://github.com/yyx990803/cjs-module-lexer-rollup-reexports)。
+* [**deno_lint**](https://github.com/denoland/deno_lint) - 基于 Rust，支持 JavaScript 和 TypeScript 的 lint 工具。
+* [**dprint**](https://github.com/dprint/dprint) - 基于 Rust，代码格式化工具，Prettier 替代品。
 * [**elsa**](https://github.com/elsaland/elsa) - 基于 Go，JavaScript 和 TypeScript 的 runtime。 
 * [**es-module-lexer**](https://github.com/guybedford/es-module-lexer) - 基于 C，输出 Web Assembly，esm 模块解析。
-* [**cjs-module-lexer**](https://github.com/guybedford/cjs-module-lexer) - 通上，cjs 模块解析，也可以用 [cjs-module-lexer-rollup-reexports](https://github.com/yyx990803/cjs-module-lexer-rollup-reexports)。
 * [**esbuild**](https://github.com/evanw/esbuild) - 基于 Go，Webpack 替代品。
 * [**esbuild-node-tsc**](https://github.com/a7ul/esbuild-node-tsc) - 用 esbuild 编译 TypeScript 项目，但不支持类型检测。
+* [**markdown-wasm**](https://github.com/rsms/markdown-wasm) - 基于 wasm 的 markdown 解析工具。
 * [**minify**](https://github.com/tdewolff/minify) - 基于 Go，压缩器，支持 HTML5、CSS3、JS、JSON、SVG 和 XML。
+* [**paperclip**](https://github.com/crcn/paperclip) - 基于 Rust 和 WAMS，React 视图组件的快速编译和预览。
 * [**RSLint**](https://github.com/RDambrosio016/RSLint) - 基于 Rust，lint 工具。
 * [**sucrase**](https://github.com/alangpierce/sucrase) - 基于 Rust，Babel 替代品。
 * [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
 * [**swc-node**](https://github.com/Brooooooklyn/swc-node)
+* [**quick-lint-js**](https://github.com/quick-lint/quick-lint-js) - 基于 C++。
 * [**markdown-wasm**](https://github.com/rsms/markdown-wasm) - 基于 wasm 的 markdown 解析工具。
 
 ## 包管理
