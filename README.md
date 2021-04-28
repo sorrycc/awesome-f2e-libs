@@ -140,7 +140,7 @@
 ## 数据流
 
 * [**dva**](https://github.com/dvajs/dva) - 我写的数据流，基于 redux。
-* [jotai](https://github.com/pmndrs/jotai)
+* [**jotai**](https://github.com/pmndrs/jotai)
 * [**immer**](https://github.com/mweststrate/immer)
 * [**mobx**](https://github.com/mobxjs/mobx)
 * [**ngrx**](https://github.com/ngrx/platform)
