@@ -1,7 +1,5 @@
 # awesome-f2e-libs
 
-> 整理我平时关注的前端库。
-
 ## 打包工具
 
 * [**webpack**](https://github.com/webpack/webpack) - 打包项目。
