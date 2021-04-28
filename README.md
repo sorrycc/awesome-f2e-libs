@@ -139,15 +139,21 @@
 
 ## 数据流
 
-* [**redux**](https://github.com/reduxjs/redux)
+* [**dva**](https://github.com/dvajs/dva) - 我写的数据流，基于 redux。
+* [jotai](https://github.com/pmndrs/jotai)
 * [**immer**](https://github.com/mweststrate/immer)
 * [**mobx**](https://github.com/mobxjs/mobx)
-* [**unstated**](https://github.com/jamiebuilds/unstated)
-* [**rxjs**](https://github.com/ReactiveX/rxjs)
-* [**dva**](https://github.com/dvajs/dva) - 我写的数据流，基于 redux。
-* [**rematch**](https://github.com/rematch/rematch) - 基于 redux。
-* [**vuex**](https://github.com/vuejs/vuex)
 * [**ngrx**](https://github.com/ngrx/platform)
+* [**recoil**](https://github.com/facebookexperimental/Recoil)
+* [**redux**](https://github.com/reduxjs/redux)
+* [**redux-toolkit**](https://redux-toolkit.js.org/)
+* [**rxjs**](https://github.com/ReactiveX/rxjs)
+* [**rematch**](https://github.com/rematch/rematch) - 基于 redux。
+* [**unstated**](https://github.com/jamiebuilds/unstated)
+* [**valtio**](https://github.com/pmndrs/valtio)
+* [**vuex**](https://github.com/vuejs/vuex)
+* [**xstate**](https://github.com/davidkpiano/xstate)
+* [**zustand**](https://github.com/pmndrs/zustand)
 
 ### redux 扩展
 
