@@ -84,7 +84,7 @@
 * [**import-all.macro**](https://github.com/kentcdodds/import-all.macro)
 
 ## 测试
-
+* [**vitest**](https://github.com/vitest-dev/vitest)
 * [**jest**](https://github.com/facebook/jest)
 * [**ts-jest**](https://github.com/kulshekhar/ts-jest)
 * [**enzyme**](https://github.com/airbnb/enzyme)
