@@ -2,6 +2,7 @@
 
 ## 打包工具
 
+* [**vite**](https://github.com/vitejs/vite) - 超快的打包项目。
 * [**webpack**](https://github.com/webpack/webpack) - 打包项目。
 * [**rollup**](https://github.com/rollup/rollup) - 打包 npm 库。
 * [**parcel**](https://github.com/parcel-bundler/parcel) - webpack 竞品，但发展前景不乐观，再观察一段时间。
